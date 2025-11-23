@@ -8,6 +8,7 @@ tsconfig.tsbuildinfo
 # next.js build output
 .next/
 out/
+node_modules/
 
 # Sentry Config File
 .env.sentry-build-plugin
